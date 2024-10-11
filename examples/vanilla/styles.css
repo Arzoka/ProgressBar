@@ -1,0 +1,5 @@
+.progress-bar {
+	width: 50rem;
+	border: 1px dotted black;
+	aspect-ratio: 5/1;
+}
